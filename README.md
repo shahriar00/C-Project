@@ -13,3 +13,5 @@
 ![atm5](https://github.com/shahriar00/C-Project/assets/70763173/bc600afb-79e5-4e79-828b-20f72f2765bc)
 
 ![atm6](https://github.com/shahriar00/C-Project/assets/70763173/d12a28f5-c4b4-42af-9d6e-296afc1b1331)
+
+![atm7](https://github.com/shahriar00/C-Project/assets/70763173/5f012267-02ff-4099-bf5e-e4b678e67c26)
