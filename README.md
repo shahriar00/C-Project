@@ -3,3 +3,8 @@
 
 
 ![atm1](https://github.com/shahriar00/C-Project/assets/70763173/4eefa8b4-1a68-48e3-af23-c7f7b9e1ef8d)
+
+![atm2](https://github.com/shahriar00/C-Project/assets/70763173/9cca28ec-c26a-4b8d-b22b-48b5e85685d0)
+
+
+
