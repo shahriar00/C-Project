@@ -11,3 +11,5 @@
 ![atm4](https://github.com/shahriar00/C-Project/assets/70763173/a3ff5610-f9a8-45fb-8e63-925718ee3b79)
 
 ![atm5](https://github.com/shahriar00/C-Project/assets/70763173/bc600afb-79e5-4e79-828b-20f72f2765bc)
+
+![atm6](https://github.com/shahriar00/C-Project/assets/70763173/d12a28f5-c4b4-42af-9d6e-296afc1b1331)
